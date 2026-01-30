@@ -1,0 +1,4 @@
+User,Role,System,Group/Permission,Business Justification,Manager Approval (Y/N),Last Reviewed Date,Risk Notes
+jdoe,Finance Analyst,Active Directory,FIN-READ,Quarterly financial reporting access,Y,2026-01-15,Low risk – read-only
+asmith,IT Support,VPN,MFA-RemoteAccess,Remote support responsibilities,Y,2026-01-10,Medium risk – privileged access
+bwilliams,HR Manager,HRIS,HR-FULL,Employee records management,Y,2025-12-20,High impact data – monitor closely
