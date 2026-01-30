@@ -28,7 +28,11 @@ All examples are sanitized and designed to function as reusable operational temp
 
 ## Contact
 Marcell Denmark
+
 marcelldenmark@outlook.com
+
 MS. Information Technology, BS. Computer Science
+
 Philadelphia, PA  
+
 Cybersecurity | IAM | Security Operations
