@@ -1,0 +1,13 @@
+Role,System,Access Level,Groups/Permissions,Approver,Risk Level,Notes
+HR Manager,HRIS,Full,HRIS-HR-FULL,HR Director,High,Contains sensitive PII; restrict and monitor
+HR Analyst,HRIS,Standard,HRIS-HR-STD,HR Manager,Medium,No payroll admin rights
+Payroll Specialist,HRIS,Privileged,HRIS-PAYROLL-ADMIN,Controller,High,Payroll changes require strict SoD
+Finance Analyst,ERP,Read,ERP-FIN-READ,Finance Manager,Medium,Read-only financial reporting
+Finance Manager,ERP,Approve,ERP-FIN-APPROVE,Director of Finance,High,Approval rights are high impact
+IT Support,Active Directory,Privileged,AD-HELPDESK-RESET;AD-USER-MODIFY,IT Manager,High,No Domain Admin; enforce MFA
+System Admin,Active Directory,Admin,AD-SERVER-ADMIN,IT Director,Critical,Privileged admin; quarterly review required
+Security Analyst,SIEM,Privileged,SIEM-ANALYST,Security Manager,High,Access to logs and detection tools
+Network Engineer,VPN,Privileged,VPN-ADMIN,Network Manager,High,Remote access control changes are high impact
+Contractor,VPN,Standard,VPN-REMOTE-STD,Sponsor/Manager,Medium,Time-bound; auto-expire access
+All Employees,Email,Standard,EMAIL-STD,Manager,Low,Baseline access
+All Employees,File Shares,Standard,FS-DEPT-READ,Manager,Low,Department-based access only
