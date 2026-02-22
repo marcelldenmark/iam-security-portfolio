@@ -19,6 +19,21 @@ All examples are sanitized and designed to function as reusable operational temp
 - Compliance-aware security operations
 - Cross-functional collaboration (HR, IT, Security)
 
+## 🚧 Upcoming: Microsoft Entra ID Portfolio Expansion
+
+I am currently expanding my hands-on experience with Microsoft Entra ID (Azure AD).
+
+Over the coming weeks, I will be publishing structured IAM labs and implementation examples demonstrating:
+
+- Identity lifecycle management (Joiner–Mover–Leaver workflows)
+- Role-Based Access Control (RBAC) configuration
+- Conditional Access policy design
+- Multi-Factor Authentication (MFA) enforcement
+- Privileged Identity Management (PIM) scenarios
+- Audit logging and security monitoring
+
+This section will include documented configurations, architecture explanations, screenshots, and security rationale to showcase practical IAM implementation skills.
+
 
 ## Contact
 Marcell Denmark
