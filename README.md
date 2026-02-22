@@ -19,12 +19,6 @@ All examples are sanitized and designed to function as reusable operational temp
 - Compliance-aware security operations
 - Cross-functional collaboration (HR, IT, Security)
 
-## Repository Structure
-/projects
-├── access-review-template.csv
-├── jml-process.md
-└── README.md
-
 
 ## Contact
 Marcell Denmark
