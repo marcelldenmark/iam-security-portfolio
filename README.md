@@ -30,3 +30,8 @@ MS. Information Technology, BS. Computer Science
 Philadelphia, PA  
 
 Cybersecurity | IAM | Security Operations
+
+© 2026 Marcell Denmark. All Rights Reserved.
+
+This repository is provided for portfolio and demonstration purposes only.
+No permission is granted to use, copy, modify, distribute, or reproduce this code without explicit written consent.
